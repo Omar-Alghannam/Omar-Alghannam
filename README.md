@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2fe,4facfe,6f86d6&height=180&section=header&text=Omar%20Alghannam&fontSize=45&fontAlignY=35&theme=dark" alt="Header Banner" width="100%" />
-</p>
+<h1 align="center">Omar Alghannam</h1>
 
 <p align="center">
   <a href="https://github.com/Omar-Alghannam">
