@@ -51,7 +51,6 @@
 
 - **CineMatch AI** — FastAPI, PyTorch, Supabase, SBERT, SVD recommendation system.
 - **Football Search Engine** — TF-IDF, Word2Vec, semantic search, DuckDB, Streamlit, SerpAPI.
-- **Gemma-4 Fine-Tuning Pipeline** — LoRA, HuggingFace PEFT, NVFP4, vLLM (paid client work).
 - **Premier League Analytics Dashboard** — AmCharts 5, data visualization.
 - **Mowasla** — Uber-like ride-hailing system in C# + SQL.
 
